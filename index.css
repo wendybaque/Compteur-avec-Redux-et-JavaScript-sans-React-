@@ -1,0 +1,44 @@
+#counter-render {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#button-increment {
+    background-color: lightgreen;
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+}
+
+#button-decrement {
+    background-color: lightcoral;
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+}
+
+#button-addten {
+    background-color: red;
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+}
+
+#button-removeten {
+    background-color: green;
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+}
+
+#button-reset {
+    background-color: grey;
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+}
